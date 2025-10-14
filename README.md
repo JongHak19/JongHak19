@@ -106,12 +106,12 @@
 ### 📫 연락처 (Contact Me)
 
 <div>
-  <a href="mailto:[cj855695@gmail.com]"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:cj855695@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://back-jong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
   </div>
 
 <br>
 
 ### 📈 GitHub 통계
-[![[내 깃허브 아이디]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[JongHak19]&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[JongHak19]&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![[내 깃허브 아이디]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHak19&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHak19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
