@@ -106,7 +106,7 @@
 ### 📫 연락처 (Contact Me)
 
 <div>
-  <a href="mailto:[내 이메일 주소]"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:[cj855695@gmail.com]"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://back-jong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
   </div>
 
