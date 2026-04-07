@@ -113,5 +113,4 @@
 <br>
 
 ### 📈 GitHub 통계
-[![[내 깃허브 아이디]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHak19&show_icons=true&theme=dracula&exclude_repo=Eonyang)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHak19&layout=compact&theme=dracula&exclude_repo=Eonyang)](https://github.com/anuraghazra/github-readme-stats)
+![My Stats](./my_stats.svg)
