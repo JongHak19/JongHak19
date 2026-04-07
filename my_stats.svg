@@ -1,0 +1,11 @@
+
+    <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#282a36" rx="10"/>
+      <text x="20" y="40" font-family="Arial" font-size="20" fill="#bd93f9" font-weight="bold">
+        🚀 JongHak19's Real-time Stats
+      </text>
+      <text x="20" y="70" font-family="Arial" font-size="15" fill="#f8f8f2">
+        Followers: 0 | Public Repos: 0
+      </text>
+    </svg>
+    
