@@ -1,7 +1,8 @@
 import requests
 import os
 
-TOKEN = os.environ.get('GH_TOKEN')
+# GitHub Actions에서 자동으로 제공되는 GITHUB_TOKEN 사용
+TOKEN = os.environ.get('GITHUB_TOKEN')
 USERNAME = "JongHak19"
 headers = {"Authorization": f"bearer {TOKEN}"}
 

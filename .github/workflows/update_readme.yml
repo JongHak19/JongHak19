@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Script
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # 3단계에서 설정할 비밀번호
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python update_stats.py
 
       - name: Commit and Push
