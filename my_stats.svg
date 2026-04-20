@@ -15,7 +15,7 @@
       
       <!-- Commits -->
       <text x="25" y="110" class="stat-label">🔥 Commits (This Year):</text>
-      <text x="315" y="110" class="stat-value">57</text>
+      <text x="315" y="110" class="stat-value">56</text>
       
       <!-- PRs -->
       <text x="25" y="140" class="stat-label">💻 Total PRs:</text>
