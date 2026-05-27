@@ -15,14 +15,14 @@
       
       <!-- Commits -->
       <text x="25" y="110" class="stat-label">🔥 Commits (This Year):</text>
-      <text x="315" y="110" class="stat-value">56</text>
+      <text x="315" y="110" class="stat-value">57</text>
       
       <!-- PRs -->
       <text x="25" y="140" class="stat-label">💻 Total PRs:</text>
-      <text x="315" y="140" class="stat-value">69</text>
+      <text x="315" y="140" class="stat-value">74</text>
       
       <!-- Issues -->
       <text x="25" y="170" class="stat-label">🐛 Total Issues:</text>
-      <text x="315" y="170" class="stat-value">32</text>
+      <text x="315" y="170" class="stat-value">38</text>
     </svg>
     
